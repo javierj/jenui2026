@@ -1,0 +1,419 @@
+---
+
+1. ¿Cuál es la finalidad central de Design Thinking?
+a) Diseñar productos con alto impacto visual
+b) Resolver problemas poniendo a las personas en el centro
+c) Reducir tiempos de desarrollo
+d) Desarrollar prototipos funcionales
+#
+1. ¿Cuál debería ser el objetivo principal del Design Thinking?
+a) Diseñar productos estéticos
+b) Prototipar aplicaciones
+c) Resolver problemas centrados en las personas
+d) Optimizar costes
+#
+1. ¿Cuál debería ser el objetivo principal del Design Thinking?
+a) Diseñar productos estéticos
+b) Prototipar aplicaciones
+c) Resolver problemas centrados en las personas
+d) Optimizar costes
+#
+1. Una característica esencial de Design Thinking es que:
+a) Reduce costes de producción
+b) Diseña productos estéticos
+c) Se centra en resolver problemas humanos
+d) Prioriza la documentación
+
+---
+
+2. Durante la fase de generación de ideas, ¿qué técnica resulta más habitual?
+a) Benchmarking financiero
+b) Análisis DAFO
+c) Lluvia de ideas (brainstorming)
+d) Diagrama de Gantt
+#
+2. ¿Qué técnica es más propia de la fase de ideación?
+a) DAFO
+b) Diagrama de Gantt
+c) Brainstorming
+d) Benchmarking financiero
+#
+2. ¿Qué técnica es más propia de la fase de ideación?
+a) DAFO
+b) Diagrama de Gantt
+c) Brainstorming
+d) Benchmarking financiero
+
+---
+
+3. ¿Para qué se construyen prototipos dentro del proceso de Design Thinking?
+a) Para cerrar definitivamente la solución
+b) Para validar ideas de forma rápida y con bajo coste
+c) Para documentar el avance del proyecto
+d) Para presentarlos a inversores
+#
+1. ¿Cuál es la finalidad de crear prototipos durante la aplicación de Design Thinking?
+a) Convencer a inversores
+b) Lanzar el producto final
+c) Probar ideas de forma rápida y económica
+d) Documentar el proyecto
+
+---
+
+4. ¿Qué riesgo principal existe si se inicia la ideación sin definir correctamente el problema?
+a) Aumentar excesivamente el número de ideas
+b) Limitar la creatividad del equipo
+c) Proponer soluciones poco relevantes
+d) Incrementar el coste del prototipado
+#
+5. ¿Qué ocurre si se comienza a idear sin un buen insight definido?
+a) Se generan demasiadas ideas
+b) Aumenta la creatividad
+c) Se proponen soluciones irrelevantes
+d) Se acorta el tiempo de desarrollo
+#
+2. ¿Qué riesgo implica una mala definición del problema inicial?
+a) Generar menos ideas
+b) Incrementar la creatividad
+c) Proponer soluciones poco relevantes
+d) Reducir el tiempo del proceso
+#
+5. ¿Cuál es el objetivo principal de la fase de ideación?
+a) Seleccionar una única solución final
+b) Generar un gran número de ideas posibles
+c) Prototipar directamente la solución
+d) Definir métricas de negocio
+
+---
+
+6. Una ventaja clave del Design Thinking es que:
+a) Permite resolver problemas complejos
+b) Favorece la colaboración entre perfiles diversos
+c) Mejora significativamente la experiencia de usuario
+d) Todas las anteriores
+#
+3. ¿Cuál es una ventaja directa de la técnica Design Thinking?
+a) Facilita la colaboración multidisciplinar
+b) Ayuda a resolver problemas complejos
+c) Mejora la experiencia de usuario.
+d) Todas las anteriores
+#
+4. ¿Qué ventaja distingue al Design Thinking frente a otros enfoques?
+a) Mejora la experiencia del usuario
+b) Facilita el trabajo entre perfiles diversos
+c) Aborda problemas complejos
+d) Todas las anteriores
+
+---
+
+5. ¿Qué función cumple la iteración en Design Thinking?
+a) Se aplica solo cuando el proyecto falla
+b) Permite regresar a fases anteriores para mejorar la solución
+c) Solo afecta al desarrollo técnico
+d) Repite exclusivamente la fase de ideación
+#
+2. ¿Qué papel desempeña la iteración en este enfoque metodológico?
+a) Es opcional
+b) Se limita al prototipado
+c) Permite mejorar volviendo a fases previas
+d) Se aplica solo al inicio
+#
+5. ¿Cuál es el rol de la iteración dentro del proceso?
+a) Se itera en el desarrollo de los prototipos.
+b) Repetir la ideación sin cambios
+c) Volver a fases previas para mejorar o corregir
+d) Usarse únicamente al final
+
+---
+
+1. ¿Qué diferencia describe mejor la empatía frente a la investigación de mercado en Design Thinking?
+a) La empatía se apoya solo en datos cuantitativos
+b) No existe una diferencia significativa
+c) La empatía profundiza en motivaciones y contexto de uso
+d) La investigación de mercado solo se aplica al final
+#
+3. ¿Qué describe mejor la empatía en Design Thinking?
+a) Uso exclusivo de datos cuantitativos
+b) Comprensión profunda de motivaciones y contextos
+c) Aplicación solo en fases finales
+d) Equivalencia total con investigación de mercado
+
+---
+
+2. ¿Cuál de las siguientes situaciones representa un uso inadecuado de Design Thinking?
+a) Ajustar el problema tras descubrir nuevas necesidades
+b) Iterar prototipos según el feedback del usuario
+c) Validar una solución ya decidida previamente
+d) Trabajar con equipos multidisciplinares
+#
+5. ¿Qué uso refleja una mala aplicación del Design Thinking?
+a) Iterar a partir del feedback obtenido de los usuarios involucrados.
+b) Ajustar el problema
+c) Validar una solución ya decidida
+d) Trabajo multidisciplinar
+
+---
+
+3. ¿Qué tipo de métrica resulta más coherente en fases tempranas del proceso?
+a) Margen de beneficio
+b) Retorno sobre la inversión
+c) Nivel de satisfacción y comprensión del usuario
+d) Cuota de mercado
+#
+4. ¿Qué métrica es más adecuada en fases iniciales?
+a) Return of investment (retorno de la inversión).
+b) Cuota de mercado
+c) Margen de beneficio
+d) Comprensión y satisfacción del usuario
+
+---
+
+4. ¿Es correcto emplear prototipos de baja fidelidad en Design Thinking?
+a) No, porque se pierde información relevante
+b) Sí, ya que permiten validar sin elevados costes
+c) No, porque no justifican el esfuerzo del proceso
+d) Sí, aunque no es recomendable
+#
+6. ¿Es recomendable el uso de prototipos de baja fidelidad?
+a) No, porque no aportan valor
+b) Sí, porque permiten validar sin grandes costes
+c) No, porque reducen la calidad
+d) Sí, aunque solo en fases finales
+
+---
+
+6. ¿Qué técnica no es adecuada para la fase de prueba y validación?
+a) Juego de roles
+b) Observación encubierta
+c) Persona
+d) Matriz de feedback
+#
+3. ¿Qué técnica es menos recomendable durante la validación?
+a) Persona
+b) Juego de roles
+c) Observación encubierta
+d) Matriz de feedback
+#
+4. ¿Qué técnica no es propia de la fase de prueba y validación?
+a) Observación encubierta
+b) Juego de roles
+c) Persona
+d) Matriz de feedback
+
+---
+
+6. ¿Cuál es la duración adecuada de un proceso de Design Thinking?
+a) Dos o tres días
+b) Una o dos semanas
+c) Uno o dos meses
+d) El tiempo necesario para lograr un buen resultado
+#
+6. ¿Cuánto tiempo debería durar una aplicación completa de Design Thinking?
+a) Dos o tres días
+b) Una o dos semanas
+c) Uno o dos meses
+d) El tiempo necesario para obtener un buen resultado
+
+---
+
+Pregunta 1. Un proyecto cuyo objetivo principal es implementar un conjunto cerrado de requisitos se considera un proyecto:
+a) Ágil
+b) Dependiente del contexto
+c) Complejo
+d) Simple
+#
+Pregunta 6. Un proyecto de desarrollo de un sistema de información orientado a cumplir requisitos definidos es un proyecto:
+a) Complejo
+b) Ágil
+c) Simple
+d) Indeterminado
+#
+Pregunta 1. Un proyecto orientado a implementar requisitos previamente definidos se clasifica como:
+a) Complejo
+b) Ágil
+c) Simple
+d) Estratégico
+
+--- 
+
+Pregunta 2. Según lo visto en la asignatura, un producto innovador es aquel que:
+a) Se diseña con técnicas de problemas complejos
+b) Genera elevados beneficios
+c) Crea un nuevo mercado
+d) Es adoptado rápidamente por los usuarios
+#
+Pregunta 5. Un producto innovador puede definirse como aquel que:
+a) Genera altos ingresos
+b) Es creado con técnicas avanzadas
+c) Abre un nuevo mercado
+d) Es rápidamente adoptado
+#
+Pregunta 1. ¿Qué caracteriza a un producto innovador desde el punto de vista del mercado?
+a) Que esté basado en metodologías complejas
+b) Que sea rentable
+c) Que genere un nuevo mercado
+d) Que marque tendencia
+
+--- 
+
+Pregunta 3. ¿Cuál es el principal problema de gestionar un problema complejo con un enfoque de gestión simple?
+a) Se trabaja mediante iteraciones
+b) No se permite descartar trabajo ni explorar alternativas
+c) Se fija el tiempo y el coste
+d) No es un planteamiento válido
+#
+
+Pregunta 4. Gestionar un problema complejo con un enfoque simple implica que:
+a) Se trabaje de forma incremental
+b) Se puedan descartar soluciones
+c) Se valide continuamente
+d) No se exploren alternativas
+#
+Pregunta 3. En la gestión de problemas complejos, fijar tiempo y coste de forma rígida:
+a) Es una buena práctica
+b) Permite iterar mejor
+c) Constituye un error
+d) No tiene impacto
+--- 
+
+Pregunta 4. ¿Qué definición de estrategia es coherente con la asignatura?
+a) Maximizar el uso de los recursos disponibles
+b) Decidir sobre la creación de productos
+c) Tomar decisiones operativas
+d) Mover la organización de una situación actual a una futura
+#
+Pregunta 5. ¿Qué definición de estrategia se ajusta a lo visto en la asignatura?
+a) Sacar el máximo rendimiento a los recursos
+b) Decidir sobre productos futuros
+c) Desplazar la organización de un estado actual a uno futuro
+d) Definir objetivos operativos
+#
+Pregunta 4. Según la asignatura, la estrategia consiste en:
+a) Tomar decisiones operativas
+b) Gestionar recursos
+c) Definir productos
+d) Trasladar la organización a una situación futura
+
+--- 
+
+Pregunta 5. En el contexto de la asignatura, el valor de un producto se define como:
+a) Su coste de producción
+b) El precio que paga el cliente
+c) La percepción del cliente sobre el producto
+d) Lo que el cliente obtiene al usarlo
+#
+Pregunta 1. ¿Cómo se define el valor de un producto según la asignatura?
+a) Como su coste
+b) Como el precio de venta
+c) Como lo que el cliente obtiene
+d) Como la opinión del mercado
+
+--- 
+
+Pregunta 6. Al lanzar un nuevo producto al mercado, ¿a qué grupo conviene dirigirse inicialmente?
+a) A todos los posibles usuarios
+b) A los innovadores
+c) A quienes tengan mayor poder adquisitivo
+d) En función del presupuesto publicitario
+#
+Pregunta 2. Al introducir un nuevo producto, el público objetivo inicial debe ser:
+a) El conjunto del mercado
+b) Los usuarios con necesidad clara
+c) Los innovadores
+d) Los clientes habituales
+
+--- 
+
+Pregunta 1. ¿Cuál es la relación correcta entre estrategia y producto según la asignatura?
+a) La estrategia gestiona exclusivamente operaciones
+b) El producto actúa como nexo entre estrategia y operaciones
+c) La estrategia es una consecuencia del producto
+d) El producto se define al margen de la estrategia
+#
+Pregunta 2. ¿Cuál es la función del producto respecto a la estrategia?
+a) Definir la estrategia
+b) Ejecutar la estrategia operativa
+c) Conectar la estrategia con las operaciones
+d) Sustituir a la estrategia
+#
+Pregunta 6. ¿Cómo se articula la relación entre producto y estrategia?
+a) La estrategia crea productos
+b) El producto sustituye a la estrategia
+c) El producto conecta estrategia y operaciones
+d) Son conceptos independientes
+
+--- 
+
+Pregunta 2. Un error frecuente en la definición de objetivos que debe evitarse es:
+a) Definir demasiados objetivos
+b) No alinear objetivos particulares con los estratégicos
+c) Definir pocos objetivos
+d) No definir objetivos de producto
+#
+Pregunta 2. ¿Qué error relacionado con los objetivos debe evitarse especialmente?
+a) Definir muchos objetivos
+b) Definir pocos objetivos
+c) No alinearlos con la estrategia
+d) No concretarlos suficientemente
+
+--- 
+
+Pregunta 3. Una iteración, en el contexto de problemas complejos, tiene como finalidad principal:
+a) Incrementar siempre el desarrollo del producto
+b) Cumplir una planificación acordada
+c) Validar o refutar una hipótesis
+d) Ajustarse a una duración fija
+#
+Pregunta 4. Una iteración en la resolución de problemas complejos:
+a) Tiene siempre una duración fija
+b) Busca validar hipótesis
+c) Incrementa necesariamente el producto
+d) Debe acordarse con el cliente
+#
+Pregunta 3. En problemas complejos, una iteración tiene como finalidad principal:
+a) Aumentar funcionalidades
+b) Validar hipótesis
+c) Ajustar el calendario
+d) Cumplir la planificación
+
+--- 
+
+Pregunta 4. ¿Cuál de las siguientes NO es una forma de abordar un problema complejo vista en la asignatura?
+a) Orquestación cognitiva
+b) Iteraciones
+c) Gestión de proyectos
+d) Panel de expertos
+#
+Pregunta 6. ¿Cuál NO es una forma válida de abordar problemas complejos según la asignatura?
+a) Iteraciones
+b) Gestión de proyectos
+c) Paneles de expertos
+d) Orquestación cognitiva
+
+--- 
+
+Pregunta 5. ¿Cómo se comunica la estrategia dentro de una organización, según la asignatura?
+a) Mediante reuniones periódicas
+b) A través de la cultura organizativa
+c) Usando equipos interdisciplinares
+d) Mediante los objetivos
+#
+Pregunta 5. ¿Cuál es una forma correcta de comunicar la estrategia en la organización?
+a) Mediante reuniones informativas
+b) A través de la cultura
+c) Mediante objetivos claros
+d) Usando estructuras matriciales
+
+--- 
+
+Pregunta 6. ¿Cuántas iteraciones pueden ser necesarias en Design Thinking?
+a) Una por cada fase de Design Thinkinmg.
+b) Las fases en Design Thinking no son iterativas
+c) Las necesarias para validar un prototipo con usuarios
+d) Las necesarias para pasar de una fase a la siguiente
+#
+Pregunta 3. ¿Cuál de las siguientes afirmaciones sobre Design Thinking es correcta?
+a) No requiere iteraciones
+b) Se itera hasta obtener resultados suficientes para avanzar 
+c) Las iteraciones se limitan al número de fases
+d) Solo se itera al final del proceso
