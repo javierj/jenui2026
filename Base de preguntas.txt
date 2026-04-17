@@ -1,0 +1,147 @@
+A continuación, tienes un banco de 12 preguntas, prepara 5 exámenes (N=5) de 6 preguntas  cada uno según las instrucciones del prompt anterior.
+Pregunta 1. Un proyecto de desarrollo de un sistema de información cuyo objetivo consiste en implementar una lista de requisitos, es un proyecto:
+a)	Simple
+b)	Complejo
+c)	Ágil
+d)	Depende del proyecto
+
+Pregunta 2. Una definición de un producto innovador podría ser:
+a)	Un producto que haga ganar mucho dinero a quien lo comercializa.
+b)	Un producto adoptado rápidamente por las personas que quieren estar a la última moda.
+c)	Un producto que crea un nuevo mercado.
+d)	Un producto creado aplicando las técnicas de problema complejo vistas en la asignatura.
+
+Pregunta 3. Cuando se gestiona un problema complejo con una gestión simple
+a)	Se trataba en ciclos iterativos e incrementales.
+b)	Se fija el tiempo y el coste y eso es un error.
+c)	No hay posibilidad de descartar trabajo realizado y explorar otras alternativas.
+d)	No tiene sentido plantear esto.
+
+Pregunta 4. ¿Cuál es una definición de estrategia acorde a lo visto en la asignatura?
+a)	Tomar decisiones sobre los siguientes pasos a dar
+b)	Decidir o no la creación de un nuevo producto.
+c)	Mover la organización de una situación actual a una futura
+d)	Sacar el máximo partido a los recursos de la organización.
+
+Pregunta 5. ¿Cuál es la relación entre estrategia y producto?
+a)	Las decisiones de producto se toman a nivel estratégico.
+b)	El producto conecta estrategia y operaciones
+c)	La estrategia es la adecuada gestión del portfolio de producto
+d)	La estrategia participa en la creación de producto.
+
+Pregunta 5. ¿Cómo se comunica la estrategia en la organización según lo visto en la asignatura?
+a)	Mediante reuniones
+b)	Mediante la cultura de la organizacón
+c)	Mediante los objetivos
+d)	Mediante equipos interdisciplinares.
+
+Pregunta 6. ¿Cuál es una definición de valor de un producto?
+a)	Lo que el cliente obtiene por el producto
+b)	Lo que el cliente paga por el producto
+c)	La valoración que el cliente hace del producto.
+d)	El coste del producto.
+
+Pregunta 7. Cuando se comercializa un nuevo producto, ¿a qué potenciales usuarios habría que dirigirse?
+a)	A cuantos más mejor
+b)	A todos los que tengan la necesidad que el producto satisface
+c)	A los innovadores
+d)	Depende del dinero para publicidad.
+
+¿Cuál es el error visto con los objetivos que se debe intentar evitar?
+a)	Tener muchos objetivos
+b)	Tener pocos objetivos
+c)	Establecer objetivos particulares no alineados con objetivos estratégicos
+d)	No definir adecuadamente los objetivos del producto
+
+¿cuál de las siguientes no es una manera de abordar un problema complejo visto en la asignatura?
+a)	Iteraciones
+b)	Panel de expertos.
+c)	Orquestación cognitiva
+d)	Gestión de proyectos.
+
+Una iteración en el contexto de resolución de un problema complejo.
+a)	Tiene siempre una duración fija
+b)	Tiene como objetivo incrementar el desarrollo del producto.
+c)	Tiene como objetivo la validación o no de una hipótesis.
+d)	Debe estar planificada y consensuada con el cliente.
+
+¿Cuántas iteraciones son necesarias en la aplicación de Design Thinkling?
+a)	Tantas como fases tenga.
+b)	Tantas como sean necesaria en una fase para obtener los resultados necesarios para pasar a la siguiente.
+c)	Tantas como sea necesario para obtener un prototipo validado por usuarios.
+d)	Las fases se aplican secuencialmente y no hay necesidad de iterar.
+
+
+A continuación, tienes un banco de 12 preguntas, prepara 5 exámenes (N=5) de 6 preguntas cada una según las instrucciones del prompt anterior.
+¿Cuál debe ser objetivo principal de la metodología Design Thinking?
+a)	Reducir costes de producción.
+b)	Diseñar productos únicamente estéticos.
+c)	Resolver problemas centrados en las personas.
+d)	Prototipar aplicaciones.
+
+¿Qué técnica es más común durante la fase de ideación?
+a)	Análisis DAFO
+b)	Brainstorming (lluvia de ideas)
+c)	Diagrama de Gantt
+d)	Benchmarking financiero
+
+¿Cuál es el propósito principal de un prototipo en Design Thinking?
+A) Lanzar el producto final al mercado
+B) Convencer a los inversores
+C) Probar ideas de forma rápida y económica
+D) Documentar el proyecto
+
+¿Cuál de las siguientes afirmaciones describe mejor la diferencia entre “empatía” y “investigación de mercado” en Design Thinking?
+A) La empatía se basa únicamente en datos cuantitativos y la investigación de mercado en datos cualitativos
+B) La empatía busca comprender motivaciones profundas y contextos de uso, más allá de lo que el usuario declara explícitamente
+C) La investigación de mercado solo se utiliza en fases finales del proceso
+D) No existe ninguna diferencia relevante entre ambas
+
+¿Cuál es el principal riesgo de iniciar la fase de ideación sin haber definido adecuadamente los insight y el problema?
+A) Generar demasiadas ideas
+B) Limitar la creatividad del equipo
+C) Proponer soluciones irrelevantes.
+D) Aumenta el tiempo y el coste necesarios para elaborar el prototipado
+
+¿Es posible utilizar prototipos de baja fidelidad aplicando Desigh Thinking?
+a)	Sí, pero no es recomendable.
+b)	No porque se pierde lo más importante de la evaluación con usuarios.
+c)	Sí, porque si no sería largo y costoso desarrollar la solución para ser validada.
+d)	No porque para eso no valdría la pena el tiempo dedicado a aplicar Design Thinking.
+
+¿Cuál de las siguientes situaciones refleja mejor un uso incorrecto del Design Thinking?
+A) Iterar varias veces sobre un prototipo a partir del feedback del usuario
+B) Ajustar el problema inicial tras descubrir nuevas necesidades
+C) Probar y validar una solución ya decidida
+D) Trabajar con equipos multidisciplinares
+
+¿Qué papel juega la iteración dentro del proceso de Design Thinking?
+A) Es opcional y solo se aplica si el proyecto fracasa
+B) Se limita a repetir la fase de ideación
+C) Permite volver a fases anteriores para mejorar la solución
+D) Se aplica únicamente al prototipado técnico
+
+¿Cuál de las siguientes métricas es más coherente con la evaluación en Design Thinking durante fases tempranas?
+A) Retorno sobre la inversión (ROI)
+B) Nivel de satisfacción y comprensión del usuario
+C) Cuota de mercado
+D) Margen de beneficio
+
+Una ventaja de aplicar Design Thinking es:
+a)	Distintos perfiles como negocio, tecnología, diseño, usuario, etc. pueden colaborar juntos.
+b)	Permite resolver problemas complejos.
+c)	Desarrolla productos con una experiencia de usuario muy alta.
+d)	Todas al anteriores.
+ 
+¿Cuál delas siguientes técnicas no es recomendable en la etapa de prueba y validación de Design Thinking?
+a)	Matriz de Feedback
+b)	Observación encubierta
+c)	Persona
+d)	Juego de roles
+
+¿Cuánto debe durar una aplicación de la técnica Design Thinking?
+a)	Entre dos y tres días
+b)	Entre una y dos semanas.
+c)	Entre uno y dos meses
+d)	El tiempo que sea necesario para obtener un buen resultado.
+
